@@ -13,5 +13,5 @@
 
 # this is here for the screenshot, sorry if it doesn't work correctly :/
 ```md
-    ![alt text](assets/images/screenshot.png)
+    ![alt text](./screenshot.png)
 ```
