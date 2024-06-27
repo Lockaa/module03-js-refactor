@@ -11,5 +11,5 @@
 
 # one issue I noted is that isNaN (the prebuilt function i'm using to make sure the salary is a number) doesn't allow decimal values to pass through.
 
-![alt text](./screenshot.png)
+![alt text](./screenshot.jpg)
 
