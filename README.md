@@ -13,3 +13,4 @@
 
 ![alt text](./screenshot.jpg)
 
+# link to git deployable: https://lockaa.github.io/module03-js-refactor/
